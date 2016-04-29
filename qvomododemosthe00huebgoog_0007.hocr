@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qvomododemosthe00huebgoog_0007.png"; bbox 0 0 3242 5259; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 55 2269 1112 2476">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 55 2269 1112 2476">
+     <span class='ocr_line' id='line_1_1' title="bbox 55 2269 1112 2476; baseline 0.003 -4"><span class='ocrx_word' id='word_1_1' title='bbox 55 2269 57 2272; x_wconf 9' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 262 2277 1112 2476; x_wconf 58' lang='grc' dir='ltr'><strong>ΡΑΒΕΝἯΒνΜΑΜεὸνΜΙε</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 518 2706 834 2816">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 518 2706 834 2816">
+     <span class='ocr_line' id='line_1_2' title="bbox 518 2706 834 2816; baseline 0.041 -51"><span class='ocrx_word' id='word_1_3' title='bbox 518 2760 521 2765; x_wconf 92' lang='grc'>.</span> <span class='ocrx_word' id='word_1_4' title='bbox 597 2706 788 2777; x_wconf 84' lang='lat' dir='ltr'>SACRVM</span> <span class='ocrx_word' id='word_1_5' title='bbox 832 2810 834 2816; x_wconf 20' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1626 5259">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1626 5259">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1626 5259; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1626 5259; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
